@@ -101,6 +101,14 @@
 			<version>1.6.0</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.wicketstuff/wicketstuff-shiro -->
+		<dependency>
+			<groupId>org.wicketstuff</groupId>
+			<artifactId>wicketstuff-shiro</artifactId>
+			<version>8.14.0</version>
+		</dependency>
+
+
 		<!-- WICKET-BOOTSTRAP -->
 		<dependency>
 			<groupId>de.agilecoders.wicket</groupId>
