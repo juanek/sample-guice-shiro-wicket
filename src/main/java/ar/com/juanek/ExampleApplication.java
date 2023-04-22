@@ -60,7 +60,7 @@ public abstract class ExampleApplication extends WebApplication
 // if you want to customize bootstrap:
 		BootstrapSettings settings = new BootstrapSettings();
 
-		final ThemeProvider themeProvider = new BootswatchThemeProvider(BootswatchTheme.Readable);
+		final ThemeProvider themeProvider = new BootswatchThemeProvider(BootswatchTheme.Cyborg);
 		settings.setThemeProvider(themeProvider);
 
 		//settings.setXXX(...);
